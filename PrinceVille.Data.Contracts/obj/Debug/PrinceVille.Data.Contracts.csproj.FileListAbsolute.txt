@@ -1,0 +1,16 @@
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.dll
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.pdb
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Model.dll
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Model.pdb
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\PrinceVille.Data.Contracts.csprojResolveAssemblyReference.cache
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\PrinceVille.Data.Contracts.csproj.CoreCompileInputs.cache
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\PrinceVille.Data.Contracts.csproj.CopyComplete
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.dll
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.pdb
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.dll
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.pdb
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Model.dll
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\bin\Debug\CodeCamper.Model.pdb
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\PrinceVille.Data.Contracts.csprojResolveAssemblyReference.cache
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.dll
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.pdb

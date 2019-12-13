@@ -1,0 +1,10 @@
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Model\bin\Debug\CodeCamper.Model.dll
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Model\bin\Debug\CodeCamper.Model.pdb
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Model\obj\Debug\PrinceVille.Model.csproj.CoreCompileInputs.cache
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Model\obj\Debug\CodeCamper.Model.dll
+D:\Practice\SPA\materials\PrinceVille\PrinceVille.Model\obj\Debug\CodeCamper.Model.pdb
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Model\bin\Debug\CodeCamper.Model.dll
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Model\bin\Debug\CodeCamper.Model.pdb
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Model\obj\Debug\PrinceVille.Model.csprojResolveAssemblyReference.cache
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Model\obj\Debug\CodeCamper.Model.dll
+D:\Practice_old\SPA\materials\PrinceVille\PrinceVille.Model\obj\Debug\CodeCamper.Model.pdb
